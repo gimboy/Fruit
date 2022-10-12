@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Fruit {
+public abstract class Fruit {
+    static double weigth;
+    abstract double get();
 }
